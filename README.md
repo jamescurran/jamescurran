@@ -10,7 +10,8 @@
 ---
 ### 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/C%23-%23E34F26.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/%2eNET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
