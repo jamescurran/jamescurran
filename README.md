@@ -8,9 +8,9 @@
 
 &nbsp;
 ---
-<!--
 ### 💻 Tech Stack:
 
+![C#](https://img.shields.io/badge/C%23-%23E34F26.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,6 @@
 
 &nbsp;
 ---
--->
 
 ### 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=jamescurran&style=flat-square&color=lightgray)
