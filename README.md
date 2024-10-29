@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋  I'm James Curran
+
+- Skilled C#/.NET development.
+- Primarily backend, but can also handle frontend design.
+- Simple Contry programmer.
+  
+["Novel Theory" - My Homepage](https://www.noveltheory.com)
+["Honest illusion" - My Blog](http://www.honestillusion.com)
+
 
 ### 🌐 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesmcurran)
