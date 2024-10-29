@@ -4,14 +4,13 @@
 - Primarily backend, but can also handle frontend design.
 - Simple Contry programmer.
   
-["Novel Theory" - My Homepage](https://www.noveltheory.com)
-["Honest illusion" - My Blog](http://www.honestillusion.com)
+["Novel Theory" - My Homepage](https://www.noveltheory.com) 
+
+["Honest illusion" - My Blog](https://www.honestillusion.com)
 
 
 ### 🌐 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesmcurran)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamescurran)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesmcurran) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamescurran)
 
 
 &nbsp;
